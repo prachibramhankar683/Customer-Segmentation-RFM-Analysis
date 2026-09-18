@@ -40,8 +40,7 @@ The Power BI dashboard includes:
 
 ### Dashboard Preview
 
-![Customer Segmentation Dashboard](dashboard-overview.png)
-
+![Customer Segmentation Dashboard](Screenshots/dashboard-overview.png)
 ## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
